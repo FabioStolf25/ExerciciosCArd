@@ -1,0 +1,9 @@
+Capacitação ExMachina - C++ e Arduíno
+
+Ex1- Servos - é um motor que a partir da rotação promove um movimento, utilizado em conjunto com arduíno para serem programaveis.
+
+- attach() = associa um dos pinos do arduíno a um driver do servo.
+
+- write() = modifica o ângulo do servo
+
+- read() = lê o angulo atual do servo
